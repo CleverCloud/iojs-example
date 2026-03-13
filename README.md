@@ -1,3 +1,5 @@
+> **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
+ 
 # IO.js Demo
 
 This is a simple [IO.js](http://iojs.org) application. It works with any IO.js
